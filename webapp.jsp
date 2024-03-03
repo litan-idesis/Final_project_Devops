@@ -30,7 +30,7 @@
         </div>
 
         <div class="question">
-            <p>3. How many continents are there dani?</p>
+            <p>3. How many continents are there ?</p>
             <label><input type="radio" name="q3" value="5"> 5</label>
             <label><input type="radio" name="q3" value="7"> 7</label>
             <label><input type="radio" name="q3" value="9"> 9</label>
