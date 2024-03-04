@@ -60,7 +60,7 @@
             // Display the result
     %>
             <div class="result">
-                <p>Your Quiz Result dani:</p>
+                <p>Your Quiz Result:</p>
                 <p>Correct Answers: <%= score %></p>
                 <p>Incorrect Answers: <%= 3 - score %></p>
             </div>
